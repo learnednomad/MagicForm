@@ -86,6 +86,12 @@ files:
         }
     ).timeout(30000);
   learner_created: false
-feedback_link: https://hyperskill.org/projects/239/stages/1198/implement#comment
-status: Unchecked
-record: -1
+- name: src/css/style.css
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/18640#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 06 May 2022 01:44:57 UTC
+record: 1

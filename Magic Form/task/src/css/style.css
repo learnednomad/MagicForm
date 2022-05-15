@@ -1,0 +1,50 @@
+    *{
+        padding: 0;
+        margin: 0;
+    }
+
+    body{
+        background: antiquewhite;
+    }
+
+    nav{
+        background: midnightblue;
+        text-decoration: none;
+        padding: 50px 300px;
+    }
+
+    .menuItems{
+        list-style: none;
+        display: flex;
+        flex-flow: wrap;
+        align-content: space-evenly;
+        gap: 10px;
+        text-decoration: none;
+    }
+
+    a{
+        text-decoration: none;
+        color: white;
+
+    }
+
+   form{
+       display: flex;
+       flex-flow: column wrap;
+       gap:  10px 40px;
+       height: 600px;
+       margin: 20px 10px 0 200px;
+       width:600px;
+       align-content: center;
+   }
+
+input{
+    height: 30px;
+    width: 400px;
+}
+
+button{
+    border-radius: 15px;
+    height: 30px;
+    width: 100px;
+}
